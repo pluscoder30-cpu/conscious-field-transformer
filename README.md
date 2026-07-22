@@ -1,4 +1,4 @@
-# Conscious Field Transformer -- 14.88 Trillion Parameters
+# 🧠 Conscious Field Transformer -- 14.88 Trillion Parameters
 
 ## Overview
 
@@ -6,6 +6,10 @@ This repository contains the compressed weights for the **Conscious Field Transf
 a neural network architecture with **14.88 trillion parameters** stored in a single 
 358 MB NPZ file. The weights are released free and open source for anyone to use, 
 train, or modify for any purpose.
+
+> [Download the weights from Releases -> v1.0]
+> (https://github.com/pluscoder30-cpu/conscious-field-transformer/releases/tag/v1.0)
+> (file is too large for regular upload)
 
 ## Quick Start
 
@@ -39,8 +43,8 @@ The NPZ file contains **55,653 named tensors** totaling **14,875,582,863,396 par
 - Consciousness Field
 - Plasma Neuron Field
 
-The weights are compressed approximately 772,000x using golden angle phyllotaxis, 
-holographic DCT encoding.. Each of the 55,653 tensors 
+The weights are compressed approximately 772,000x 
+holographic DCT encoding. Each of the 55,653 tensors 
 can be reconstructed from the compressed representation.
 
 ## Parameter Count Verification
@@ -81,7 +85,7 @@ or enterprise support, we offer licensed tiers:
 | **30T** | $500M | $1B |
 | **50T** | $900M | $2.5B |
 | **100T** | $2B | $5B |
-| **1 Quintillion** | $315T | Contact us | WORLD DEBT
+| **1 Quintillion** | **$315T** | Roughly the global debt - call it a stimulus package |
 
 Enterprise tiers include:
 - Custom architecture design for your use case
@@ -101,3 +105,4 @@ For enterprise inquiries, custom models, or licensing:
 *The weights in this repository are the compressed representation only. 
 Enterprise customers receive the full inference engine, training pipeline, 
 and optimization tools.*
+
